@@ -41,7 +41,7 @@ The final submission deadline is firm.
 
 ## Proposal
 
-Use the proposal template and submit `[Name]_LearningActivitiesProposal.pdf`, replacing `[Name]` with your name.
+Use the proposal form linked on Moodle.
 
 Propose two topics from this list: **functions, conditionals, loops, nested loops, strings, and lists**. For each topic, include:
 
@@ -50,7 +50,7 @@ Propose two topics from this list: **functions, conditionals, loops, nested loop
 
 ## Design
 
-Submit `[Name]_LearningActivitiesDesign.pdf`. Include:
+Create a pdf the includes:
 
 - **Topic choices.** Identify which topic you’ll use for the homework and which you’ll use for the in-class activity.
 - **Homework plan.** Describe the overall task and the three or four smaller tasks students will complete to accomplish it.
