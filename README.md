@@ -50,7 +50,7 @@ Propose two topics from this list: **functions, conditionals, loops, nested loop
 
 ## Design
 
-Create a pdf the includes:
+Create a pdf that includes:
 
 - **Topic choices.** Identify which topic you’ll use for the homework and which you’ll use for the in-class activity.
 - **Homework plan.** Describe the overall task and the three or four smaller tasks students will complete to accomplish it.
